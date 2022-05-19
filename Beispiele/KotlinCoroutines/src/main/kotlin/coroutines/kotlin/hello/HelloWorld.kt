@@ -1,3 +1,3 @@
 package coroutines.kotlin.hello
 
-fun main() = println("Hallo KKON")
+fun main() = println("Hallo ETKA!")
